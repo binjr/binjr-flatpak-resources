@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+<id>eu.binjr.binjr</id>
+
+<name>binjr</name>
+<summary>Browse time series data</summary>
+
+<metadata_license>CC-BY-4.0</metadata_license>
+<project_license>Apache-2.0</project_license>
+
+<description>
+    <p>
+        binjr is a time series browser; it renders time series data produced by other applications as dynamically
+        editable representations and provides advanced features to navigate the data smoothly and efficiently
+        (drag &amp; drop, zoom, history, detachable tabs, advanced time-range picker).
+    </p>
+    <p>
+        It aims to be the missing link between the collection of disparate tools (text editors, graphing &amp;
+        CLI utilities) traditionally used by developers to analyse forensic data locally and full-blown analytics
+        platforms that centralize logs and telemetry for entire organizations.
+    </p>
+</description>
+
+<launchable type="desktop-id">eu.binjr.binjr.desktop</launchable>
+<screenshots>
+    <screenshot type="default">
+        <image>https://binjr.eu/resources/binjr_screenshot_1.png</image>
+    </screenshot>
+    <screenshot>
+        <image>https://binjr.eu/resources/binjr_screenshot_2.png</image>
+    </screenshot>
+    <screenshot>
+        <image>https://binjr.eu/resources/binjr_screenshot_3.png</image>
+    </screenshot>
+</screenshots>
+</component>
